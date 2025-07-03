@@ -34,8 +34,8 @@ visual-app
 ### Шаги установки:
 1. Клонирование репозитория
 ```
-git clone https://github.com/danvar24/Practic_work_1st_term
-cd Practic_work_1st_term
+git clone https://github.com/Ram3ndev/ImageProcessingApp
+cd ImageProcessingApp
 ```
 
 2. Создать виртуальное окружение (ОБЯЗАТЕЛЬНО на Linux/macOS)
