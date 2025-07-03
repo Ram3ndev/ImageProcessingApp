@@ -193,6 +193,12 @@ VisualProcessingApp/
 - [OpenCV](https://opencv.org/) - работа с изображениями и камерой
 - [Pillow](https://python-pillow.org/) - обработка графики
 - [NumPy](https://numpy.org/) - математические операции
+- Tkinter (только для Linux)
+
+```bash
+sudo apt update # Для Linux
+sudo apt install python3-tk  # Обязательно для работы GUI
+```
 
 ```text
 opencv-python>=4.5
