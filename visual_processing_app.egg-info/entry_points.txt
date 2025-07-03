@@ -1,0 +1,3 @@
+[console_scripts]
+visual-app = image_editor.main:main
+vpa = image_editor.main:main

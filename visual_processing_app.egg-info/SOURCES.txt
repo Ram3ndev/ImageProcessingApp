@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+setup.py
+image_editor/__init__.py
+image_editor/__main__.py
+image_editor/main.py
+visual_processing_app.egg-info/PKG-INFO
+visual_processing_app.egg-info/SOURCES.txt
+visual_processing_app.egg-info/dependency_links.txt
+visual_processing_app.egg-info/entry_points.txt
+visual_processing_app.egg-info/requires.txt
+visual_processing_app.egg-info/top_level.txt

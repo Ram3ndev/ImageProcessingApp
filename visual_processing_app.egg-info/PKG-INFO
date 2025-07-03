@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: visual-processing-app
+Version: 1.0.0
+Summary: Приложение для обработки изображений
+Home-page: https://github.com/Ram3ndev/ImageProcessingApp
+Author: Тюменцев Роман
+Author-email: romatumencev5128@email.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: opencv-python>=4.5
+Requires-Dist: Pillow>=9.0
+Requires-Dist: numpy>=1.20
